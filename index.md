@@ -3,52 +3,56 @@ layout: page
 title: Home
 ---
 
-.unibo-home.jpg
+images/unibo-home.jpg
 
 # Bologna Metropolitan Health Research Hub
 
-### Connecting research expertise, institutions and infrastructures for Horizon Europe Cluster 1 Health
+### Horizon Europe Cluster 1 Health Matchmaking Platform
 
-The Bologna Metropolitan Health Research Hub is a pilot demonstrator developed to support strategic positioning, consortium building and proposal development in Horizon Europe Health.
+Connecting expertise, infrastructures, cohorts and project experience across the Bologna metropolitan ecosystem.
 
 ---
 
 ## Participating Institutions
 
-- University of Bologna (UNIBO)
-- Azienda Ospedaliero-Universitaria di Bologna (AOUBO)
-- IRCCS Istituto Ortopedico Rizzoli (IOR)
-- Istituto delle Scienze Neurologiche di Bologna (ISNB)
+| Institution | Role |
+|------------|------|
+| UNIBO | Academic excellence and multidisciplinary research |
+| AOUBO | Clinical research and healthcare innovation |
+| IOR | Translational and rehabilitation research |
+| ISNB | Neuroscience and population health |
 
 ---
 
-## Explore the Pilot
+## Explore the Hub
 
-### Research Topics
+### 🧠 Research Topics
+[Browse Topics](topics.md)
 
-➡️ [Browse Topics](topics.md)
+### 👥 Expertise
+[Browse Expertise](expertise.md)
 
-### Expertise
-
-➡️ [Browse Expertise](expertise.md)
-
-### Bologna Ecosystem
-
-➡️ [About Bologna](about-bologna.md)
+### 🌍 Bologna Ecosystem
+[About Bologna](about-bologna.md)
 
 ---
 
-## Featured Pilot Topic
+## Featured Pilot
 
 ### ENVHLTH-02
 
-Integrating climate-related exposures into the human exposome and characterising its changes in response to climate change.
+Climate change, exposome and health.
 
 ➡️ topics/envhlth-02.html
 
 ---
 
-## Pilot Status
+## Why this matters
 
-This website is a proof-of-concept developed to test a scalable model for mapping Bologna's health research ecosystem against Horizon Europe opportunities.
+The Hub provides a structured approach to:
+
+- identifying expertise relevant to Horizon Europe topics;
+- building competitive consortia;
+- connecting researchers and institutions;
+- accelerating proposal development.
 
