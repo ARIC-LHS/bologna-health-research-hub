@@ -45,7 +45,7 @@ Connecting expertise, infrastructures, cohorts and project experience across the
 
 Climate change, exposome and health.
 
-➡️ topics/envhlth-02.html
+➡️ **topics/envhlth-02.html**
 
 ---
 
