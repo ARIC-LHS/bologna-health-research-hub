@@ -3,8 +3,6 @@ layout: page
 title: ENVHLTH-02
 ---
 
-# ENVHLTH-02
-
 ## Topic Overview
 
 Integrating climate-related exposures into the human exposome and characterising its changes in response to climate change.
