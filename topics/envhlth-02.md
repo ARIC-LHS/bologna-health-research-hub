@@ -66,14 +66,44 @@ Laura Anderlucci
 
 ...
 
-## Preliminary capability matrix
+## Preliminary Capability Matrix
 
-| Functional area | Potential contributors | Preliminary fit |
-|---|---|---|
-| Climate exposome and exposure assessment | Silvana Di Sabatino | Very high |
-| Cohorts and occupational monitoring | Francesco Decataldo | Very high |
-| Biobanks and European infrastructures | Monica Forni | Very high |
-| Sleep and longitudinal physiology | Alessandro Silvani | Very high |
-| Microbiome | Simone Rampelli | Very high |
-| Multiview statistics and data integration | Angela Montanari / Laura Anderlucci | Very high |
-...
+### Climate Exposome and Exposure Assessment
+**Potential contributor:** Silvana Di Sabatino  
+**Preliminary fit:** Very high
+
+### Cohorts and Occupational Monitoring
+**Potential contributor:** Francesco Decataldo  
+**Preliminary fit:** Very high
+
+### Biobanks and European Infrastructures
+**Potential contributor:** Monica Forni  
+**Preliminary fit:** Very high / enabling
+
+### Sleep and Longitudinal Physiology
+**Potential contributor:** Alessandro Silvani  
+**Preliminary fit:** Very high
+
+### Microbiome
+**Potential contributor:** Simone Rampelli  
+**Preliminary fit:** Very high
+
+### Multiview Statistics and Data Integration
+**Potential contributor:** Angela Montanari / Laura Anderlucci  
+**Preliminary fit:** Very high / enabling
+
+### Heat, Tau and Neurodegeneration
+**Potential contributor:** Marco Luppi  
+**Preliminary fit:** High
+
+### Cellular Pathways and Neuroinflammation
+**Potential contributor:** Monica Baiula  
+**Preliminary fit:** High
+
+### Nutrition and Eating Behaviour
+**Potential contributor:** Tullia Gallina Toschi  
+**Preliminary fit:** High
+
+### Food Systems, Consumption and Policy
+**Potential contributor:** Luca Mulazzani  
+**Preliminary fit:** High
