@@ -3,8 +3,6 @@ layout: page
 title: Research Topics
 ---
 
-# Research Topics
-
 ## Active Pilot
 
 - ENVHLTH-02
