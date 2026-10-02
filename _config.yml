@@ -1,1 +1,9 @@
+title: Bologna Metropolitan Health Research Hub
+description: Pilot demonstrator for Horizon Europe Cluster 1 Health
+theme: minima
+
+header_pages:
+  - topics.md
+  - expertise.md
+  - about-bologna.md
 
