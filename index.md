@@ -5,31 +5,27 @@ title: Home
 
 # Bologna Metropolitan Health Research Hub
 
-Pilot demonstrator for Horizon Europe Cluster 1 Health.
+A pilot demonstrator supporting Horizon Europe Cluster 1 Health proposal development.
 
-The Hub maps expertise, projects and institutions across the Bologna metropolitan research ecosystem.
+The Hub connects research expertise, institutions and project experience across the Bologna metropolitan ecosystem to facilitate networking, consortium building and strategic positioning for European funding opportunities.
 
 ## Explore
 
 ### Research Topics
-
 [Browse Topics](topics.md)
 
 ### Expertise
-
 [Browse Expertise](expertise.md)
 
 ### Bologna Ecosystem
-
 [About Bologna](about-bologna.md)
 
 ---
 
-## Featured Pilot Topic
+## Pilot Demonstrator
 
 ### ENVHLTH-02
 
-Climate change, exposome and health.
+Integrating climate-related exposures into the human exposome and characterising its changes in response to climate change.
 
-topics/envhlth-02.md
-
+topics/envhlth-02.html
