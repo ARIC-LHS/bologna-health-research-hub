@@ -13,7 +13,8 @@ title: ENVHLTH-02
 
 ## Strategic challenge
 
-...
+Climate change alters the human exposome through changes in environmental, occupational, behavioural and social exposures. The topic requires an integrated framework capable of linking climate-related stressors with biological responses, health outcomes and population vulnerability across the life course.
+
 
 ## Proposed functional architecture
 
@@ -21,19 +22,22 @@ title: ENVHLTH-02
 
 **Potential scientific lead: Silvana Di Sabatino**
 
-...
+Relevant assets include experience in climate exposure assessment, high-resolution environmental monitoring, social vulnerability analysis and AI-supported modelling of complex exposure patterns.
+
 
 ### WP2 — Cohorts, vulnerable populations, biobanks and monitoring
 
 **Francesco Decataldo**
 
-...
+The Bologna ecosystem offers access to occupational cohorts, paediatric populations, analytical chemistry capabilities, biobanks and European research infrastructures supporting large-scale exposome studies.
+
 
 ### WP3 — Sleep, physiology and longitudinal health outcomes
 
 **Alessandro Silvani**
 
-...
+Longitudinal physiological monitoring, wearable technologies and sleep research provide valuable opportunities to investigate the health impacts of climate-related exposures over time.
+
 
 ### WP4 — Biological mechanisms, microbiome and biomarkers
 
@@ -44,7 +48,8 @@ Francesca Maffei
 Sabrina Valente
 Claudia Zanna
 
-...
+A diverse portfolio of biological expertise supports investigation of microbiome dynamics, neuroinflammation, epigenetic responses, oxidative stress and circulating biomarkers associated with environmental exposure.
+
 
 ### WP5 — Nutrition, behaviour and food systems
 
@@ -53,18 +58,21 @@ Antonello Lorenzini
 Cristiana Caliceti
 Luca Mulazzani
 
-...
+Behavioural and nutritional exposures may represent key pathways through which climate change influences health, particularly through food systems, dietary choices and socioeconomic vulnerability.
+
 
 ### WP6 — Data integration, statistics and AI
 
 Angela Montanari
 Laura Anderlucci
 
-...
+Advanced statistical modelling, multiview data integration and AI-based approaches are essential for combining heterogeneous environmental, biological and clinical datasets.
+
 
 ### WP7 — SSH, ethics, vulnerability and policy uptake
 
-...
+The project should address ethical, social and policy dimensions, including vulnerable populations, stakeholder engagement, prevention strategies and evidence-informed adaptation measures.
+
 
 ## Preliminary Capability Matrix
 
