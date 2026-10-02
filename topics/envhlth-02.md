@@ -3,80 +3,77 @@ layout: page
 title: ENVHLTH-02
 ---
 
-## Topic Overview
+## Integrating climate-related exposures into the human exposome and characterising its changes in response to climate change
 
-Integrating climate-related exposures into the human exposome and characterising its changes in response to climate change.
+**Topic identifier:** HORIZON-HLTH-2027-01-ENVHLTH-02
+**Destination:** Living and working in a health-promoting environment
+**Action type:** Research and Innovation Action (RIA)
 
-This topic aims to improve understanding of how climate change affects human health through interactions between environmental exposures, biological responses and disease outcomes.
+...
 
----
+## Strategic challenge
 
-## Why This Matters
+...
 
-Climate change is increasingly affecting:
+## Proposed functional architecture
 
-- Air quality
-- Heat exposure
-- Extreme weather events
-- Vector-borne diseases
-- Environmental contaminants
+### WP1 — Climate exposome and exposure assessment
 
-Understanding these factors within the exposome framework is critical for developing effective prevention and adaptation strategies.
+**Potential scientific lead: Silvana Di Sabatino**
 
----
+...
 
-## Potential Bologna Expertise
+### WP2 — Cohorts, vulnerable populations, biobanks and monitoring
 
-The Bologna metropolitan ecosystem offers expertise in:
+**Francesco Decataldo**
 
-- Environmental epidemiology
-- Public health
-- Climate and health research
-- One Health approaches
-- Occupational health
-- Biostatistics and data science
-- Environmental exposure assessment
+...
 
----
+### WP3 — Sleep, physiology and longitudinal health outcomes
 
-## Relevant Institutions
+**Alessandro Silvani**
 
-### University of Bologna (UNIBO)
+...
 
-Research expertise across medicine, public health, environmental sciences and data analysis.
+### WP4 — Biological mechanisms, microbiome and biomarkers
 
-### Azienda Ospedaliero-Universitaria di Bologna
+Marco Luppi
+Monica Baiula
+Simone Rampelli
+Francesca Maffei
+Sabrina Valente
+Claudia Zanna
 
-Clinical research and access to patient populations.
+...
 
-### IRCCS Istituto Ortopedico Rizzoli
+### WP5 — Nutrition, behaviour and food systems
 
-Advanced biomedical research and translational science.
+Tullia Gallina Toschi
+Antonello Lorenzini
+Cristiana Caliceti
+Luca Mulazzani
 
-### Istituto delle Scienze Neurologiche di Bologna
+...
 
-Expertise in neurological and population health studies.
+### WP6 — Data integration, statistics and AI
 
----
+Angela Montanari
+Laura Anderlucci
 
-## Potential Contribution to Horizon Europe
+...
 
-The Bologna ecosystem can contribute to:
+### WP7 — SSH, ethics, vulnerability and policy uptake
 
-- Cohort studies
-- Exposure assessment
-- Data integration
-- Health impact evaluation
-- Risk prediction
-- Stakeholder engagement
+...
 
----
+## Preliminary capability matrix
 
-## Pilot Demonstrator
-
-This page serves as a prototype for linking:
-
-Topic → Expertise → Institutions → Proposal Opportunities
-
-within the Bologna Metropolitan Health Research Hub.
-
+| Functional area | Potential contributors | Preliminary fit |
+|---|---|---|
+| Climate exposome and exposure assessment | Silvana Di Sabatino | Very high |
+| Cohorts and occupational monitoring | Francesco Decataldo | Very high |
+| Biobanks and European infrastructures | Monica Forni | Very high |
+| Sleep and longitudinal physiology | Alessandro Silvani | Very high |
+| Microbiome | Simone Rampelli | Very high |
+| Multiview statistics and data integration | Angela Montanari / Laura Anderlucci | Very high |
+...
