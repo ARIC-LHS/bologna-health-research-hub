@@ -3,7 +3,9 @@ layout: page
 title: Home
 ---
 
-/bologna-health-research-hub/unibo-home.jpg
+<p align="center">
+  unibo-home.jpg
+</p>
 
 # Bologna Metropolitan Health Research Hub
 
@@ -55,23 +57,10 @@ Research excellence in neuroscience, neurology and population health.
 
 ## Explore the Hub
 
-### Research Topics
-
-Explore Horizon Europe Cluster 1 Health topics and related capabilities.
-
-➡️ [Browse Topics](topics.md)
-
-### Expertise
-
-Browse researchers, competencies and potential contributions.
-
-➡️ [Browse Expertise](expertise.md)
-
-### Bologna Ecosystem
-
-Learn more about the institutions participating in the Hub.
-
-➡️ [About Bologna](about-bologna.md)
+| Research Topics | Expertise | Bologna Ecosystem |
+|---|---|---|
+| Horizon Europe opportunities and capability mapping | Researchers, groups and competencies | Institutions and infrastructures |
+| [Browse Topics](topics.md) | [Browse Expertise](expertise.md) | [About Bologna](about-bologna.md) |
 
 ---
 
