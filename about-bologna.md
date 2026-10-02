@@ -3,8 +3,6 @@ layout: page
 title: Bologna Ecosystem
 ---
 
-# Bologna Research Ecosystem
-
 ## University of Bologna
 
 One of Europe's oldest and largest universities.
