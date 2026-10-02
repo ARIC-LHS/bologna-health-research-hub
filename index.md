@@ -3,7 +3,9 @@ layout: page
 title: Home
 ---
 
-<p align="center"> unibo-home.jpg </p>
+<p align="center">
+  unibo-home.jpg
+</p>
 
 # Bologna Metropolitan Health Research Hub
 
