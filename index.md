@@ -3,58 +3,98 @@ layout: page
 title: Home
 ---
 
-<p align="center">
-unibo-home.jpg
-</p>
+/bologna-health-research-hub/unibo-home.jpg
 
 # Bologna Metropolitan Health Research Hub
 
-### Horizon Europe Cluster 1 Health Matchmaking Platform
+## Connecting expertise, institutions and infrastructures for Horizon Europe Cluster 1 Health
 
-Connecting expertise, infrastructures, cohorts and project experience across the Bologna metropolitan ecosystem.
+The Bologna Metropolitan Health Research Hub is a pilot platform developed to identify, organise and showcase research capabilities across the Bologna metropolitan ecosystem in support of European proposal development and consortium building.
+
+---
+
+## At a Glance
+
+| 21 | 4 | €11.1M | 4 |
+|:---:|:---:|:---:|:---:|
+| Funded Projects | Coordinated Projects | EU Contribution | Institutions |
+
+---
+
+## Why the Hub?
+
+The Hub provides a structured approach for:
+
+- identifying expertise relevant to Horizon Europe topics;
+- supporting strategic consortium building;
+- connecting researchers and institutions;
+- accelerating proposal development;
+- increasing the visibility of the Bologna research ecosystem.
 
 ---
 
 ## Participating Institutions
 
-| Institution | Role |
-|------------|------|
-| UNIBO | Academic excellence and multidisciplinary research |
-| AOUBO | Clinical research and healthcare innovation |
-| IOR | Translational and rehabilitation research |
-| ISNB | Neuroscience and population health |
+### University of Bologna (UNIBO)
+
+Multidisciplinary excellence spanning medicine, public health, environmental sciences, engineering and data science.
+
+### Azienda Ospedaliero-Universitaria di Bologna (AOUBO)
+
+Clinical research and access to healthcare environments and patient populations.
+
+### IRCCS Istituto Ortopedico Rizzoli (IOR)
+
+Internationally recognised translational research centre.
+
+### Istituto delle Scienze Neurologiche di Bologna (ISNB)
+
+Research excellence in neuroscience, neurology and population health.
 
 ---
 
 ## Explore the Hub
 
-### 🧠 Research Topics
-[Browse Topics](topics.md)
+### Research Topics
 
-### 👥 Expertise
-[Browse Expertise](expertise.md)
+Explore Horizon Europe Cluster 1 Health topics and related capabilities.
 
-### 🌍 Bologna Ecosystem
-[About Bologna](about-bologna.md)
+➡️ [Browse Topics](topics.md)
+
+### Expertise
+
+Browse researchers, competencies and potential contributions.
+
+➡️ [Browse Expertise](expertise.md)
+
+### Bologna Ecosystem
+
+Learn more about the institutions participating in the Hub.
+
+➡️ [About Bologna](about-bologna.md)
 
 ---
 
-## Featured Pilot
+## Featured Pilot Topic
 
-### ENVHLTH-02
+# ENVHLTH-02
 
-Climate change, exposome and health.
+### Integrating climate-related exposures into the human exposome and characterising its changes in response to climate change
+
+The ENVHLTH-02 pilot demonstrates how a Horizon Europe topic can be translated into:
+
+- functional work packages;
+- institutional capabilities;
+- researcher expertise;
+- infrastructure assets;
+- consortium-building opportunities.
 
 ➡️ **topics/envhlth-02.html**
 
 ---
 
-## Why this matters
+## Pilot Status
 
-The Hub provides a structured approach to:
+This website is a proof-of-concept demonstrating a scalable methodology for mapping Bologna's health research ecosystem against Horizon Europe opportunities.
 
-- identifying expertise relevant to Horizon Europe topics;
-- building competitive consortia;
-- connecting researchers and institutions;
-- accelerating proposal development.
-
+The content is intended to support scientific validation, matchmaking and proposal development activities.
